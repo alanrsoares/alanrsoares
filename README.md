@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrsoares)](https://github.com/alanrsoares?tab=repositories)
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrsoares&theme=tokyonight)](https://github.com/alanrsoares?tab=repositories)
 
 📊 &nbsp;**This week I spent my time on**
 
