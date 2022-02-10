@@ -23,23 +23,23 @@ Here are some ideas to get you started:
 
 Open-source Libraries:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=prelude-js)](https://github.com/alanrsoares/prelude-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=prelude-js&theme=tokyonight)](https://github.com/alanrsoares/prelude-js)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=re-reduced)](https://github.com/alanrsoares/re-reduced)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=re-reduced&theme=tokyonight)](https://github.com/alanrsoares/re-reduced)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=zustand-immer-store)](https://github.com/alanrsoares/zustand-immer-store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=zustand-immer-store&theme=tokyonight)](https://github.com/alanrsoares/zustand-immer-store)
 
 Tools:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=greenbot)](https://github.com/alanrsoares/greenbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=greenbot&theme=tokyonight)](https://github.com/alanrsoares/greenbot)
 
 Games:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=weirdle)](https://github.com/alanrsoares/weirdle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=weirdle&theme=tokyonight)](https://github.com/alanrsoares/weirdle)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=ts-mines)](https://github.com/alanrsoares/ts-mines)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=ts-mines&theme=tokyonight)](https://github.com/alanrsoares/ts-mines)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake)](https://github.com/alanrsoares/react-snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake&theme=tokyonight)](https://github.com/alanrsoares/react-snake)
 
 
 📊 &nbsp;**This week I spent my time on**
