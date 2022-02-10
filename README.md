@@ -35,9 +35,11 @@ Tools:
 
 Games:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake)](https://github.com/alanrsoares/react-snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=weirdle)](https://github.com/alanrsoares/weirdle)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=ts-mines)](https://github.com/alanrsoares/ts-mines)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake)](https://github.com/alanrsoares/react-snake)
 
 
 📊 &nbsp;**This week I spent my time on**
