@@ -41,6 +41,8 @@ Games:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake&theme=tokyonight)](https://github.com/alanrsoares/react-snake)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=rescript-game-of-life&theme=tokyonight)](https://github.com/alanrsoares/rescript-game-of-life)
+
 
 📊 &nbsp;**This week I spent my time on**
 
