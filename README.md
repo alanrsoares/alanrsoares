@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrsoares&theme=tokyonight)](https://github.com/alanrsoares?tab=repositories)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrsoares&langs_count=5&theme=tokyonight)](https://github.com/alanrsoares)
+
 Open-source Libraries:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=re-reduced&theme=tokyonight)](https://github.com/alanrsoares/re-reduced)
