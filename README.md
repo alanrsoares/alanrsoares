@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrsoares&theme=tokyonight)](https://github.com/alanrsoares?tab=repositories)
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrsoares&theme=tokyonight#gh-light-mode-only)](https://github.com/alanrsoares?tab=repositories)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrsoares&langs_count=5&theme=tokyonight)](https://github.com/alanrsoares)
