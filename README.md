@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sifchain's DEX
+- 🔭 I’m currently working on Stride's info dashboard.
 - 🌱 I’m currently learning Rust/WASM
 - 💬 Ask me about React & TypeScript
 
