@@ -41,8 +41,3 @@ Games:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=ts-mines&theme=tokyonight)](https://github.com/alanrsoares/ts-mines)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=react-snake&theme=tokyonight)](https://github.com/alanrsoares/react-snake)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=rescript-game-of-life&theme=tokyonight)](https://github.com/alanrsoares/rescript-game-of-life)
-
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alanrsoares&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
