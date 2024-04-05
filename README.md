@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 Open-source Libraries:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=styled-cva&theme=tokyonight)](https://github.com/alanrsoares/styled-cva)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=zustand-immer-store&theme=tokyonight)](https://github.com/alanrsoares/zustand-immer-store)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=re-reduced&theme=tokyonight)](https://github.com/alanrsoares/re-reduced)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=prelude-js&theme=tokyonight)](https://github.com/alanrsoares/prelude-js)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alanrsoares&repo=elementary&theme=tokyonight)](https://github.com/alanrsoares/elementary)
 
 Tools:
